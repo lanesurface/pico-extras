@@ -1,4 +1,3 @@
-
-[ submodule "pico_mipi_dbi" ]
-  path=src/common/pico_mipi_dbi
-  url=https://github.com/lanesurface/pico_mipi_dbi.git
+[submodule "src/common/pico_mipi_dbi"]
+	path = src/common/pico_mipi_dbi
+	url = https://github.com/lanesurface/pico_mipi_dbi
